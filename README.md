@@ -11,4 +11,4 @@ Skills: Python / Django / Numpy / Keras / SciKit Learn / OpenCV / Java
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arattjzl)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aratt-juarez-luna-667a64266/)  
