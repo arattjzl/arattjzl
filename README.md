@@ -26,7 +26,7 @@ I’m always looking for new challenges in the field of **artificial intelligenc
 
 ## Connect with Me 📬
 
-- **LinkedIn**: [My LinkedIn profile](https://www.linkedin.com/in/aratt-ju%C3%A1rez/)
-- **Email**: [Your email](mailto:your_aratt.jzl@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aratt-ju%C3%A1rez/)
+- [Email](mailto:your_aratt.jzl@gmail.com)
 
 Thank you for visiting my profile! I’m open to collaborating on interesting projects 🤝 and sharing knowledge about the exciting world of artificial intelligence 🌐.
