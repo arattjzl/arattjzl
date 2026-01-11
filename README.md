@@ -1,6 +1,6 @@
 # Hi, I'm Aratt 👋
 
-I am a **software engineer** with a focus on **data science** , **machine learning** , **data engineering** , and **computer vision** . Throughout my academic career, I’ve worked on various projects ranging from **predictive analytics** 📈 to developing solutions based on **neural networks** . My passion for technology and innovation has led me to explore areas like **blinking to Morse code translation** .
+I am a **software engineer** with a focus on **data science** , **machine learning** , **data engineering** , and **computer vision** . Throughout my academic career, I’ve worked on various projects like developing solutions based on **neural networks** . My passion for technology and innovation has led me to explore areas like **blinking to Morse code translation** .
 
 ## My Skills 🛠️
 
